@@ -156,3 +156,9 @@ body{
 .instagram-enter .container .apps button{
     border: none;
 }
+
+@media (max-width:1024px){
+    .instagram-wrapper{
+        width:90%;
+    }
+}
